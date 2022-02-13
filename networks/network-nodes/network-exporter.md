@@ -1,6 +1,6 @@
 # Network Exporter
 
-![Network Exporter](../../.gitbook/assets/tile\_network\_exporter.png)
+![Network Exporter](../../.gitbook/assets/networks/tile_network_exporter.png)
 
 The Network Importer's primary purpose is to allow a player to remove items from the Network to be picked up by a Cargo Network.
 

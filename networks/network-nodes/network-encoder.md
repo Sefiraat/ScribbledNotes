@@ -1,6 +1,6 @@
 # Network Encoder
 
-![Network Encoder](../../.gitbook/assets/tile\_network\_encoder.png)
+![Network Encoder](../../.gitbook/assets/networks/tile_network_encoder.png)
 
 The Network Encoder is the block that handles adding a recipe to a Crafting Blueprint.
 

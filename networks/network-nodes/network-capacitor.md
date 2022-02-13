@@ -1,6 +1,6 @@
 # Network Capacitor
 
-![Capacitor 1](../../.gitbook/assets/tile\_network\_capacitor\_1.png) ![Capacitor 2](../../.gitbook/assets/tile\_network\_capacitor\_2.png)
+![Capacitor 1](../../.gitbook/assets/networks/tile_network_capacitor_1.png) ![Capacitor 2](../../.gitbook/assets/networks/tile_network_capacitor_2.png)
 
 The Network Capacitors are power-storing blocks designed to allow the Network to hold charge.
 

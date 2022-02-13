@@ -1,6 +1,6 @@
 # Network Importer
 
-![Network Importer](../../.gitbook/assets/tile\_network\_importer.png)
+![Network Importer](../../.gitbook/assets/networks/tile_network_importer.png)
 
 The Network Importer's primary purpose is to allow a player to bring items in from a Cargo Network into a Networks Network.
 

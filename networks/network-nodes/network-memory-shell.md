@@ -1,6 +1,6 @@
 # Network Memory Shell
 
-![Network Shell](../../.gitbook/assets/tile\_network\_shell.png)
+![Network Shell](../../.gitbook/assets/networks/tile_network_shell.png)
 
 The Network Shell is Network's attempt at deep storage (read: Barrel).&#x20;
 

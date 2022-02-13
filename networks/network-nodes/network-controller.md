@@ -1,6 +1,6 @@
 # Network Controller
 
-![Network Controller](../../.gitbook/assets/tile\_network\_controller.png)
+![Network Controller](../../.gitbook/assets/networks/tile_network_controller.png)
 
 The Network Controller is the brain of any Network. A Network cannot function without a controller nor can it have more than one.
 

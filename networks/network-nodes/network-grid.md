@@ -1,6 +1,6 @@
 # Network Grid
 
-![Network Grid](../../.gitbook/assets/tile\_network\_grid\_1.png) ![Network Crafting Grid](../../.gitbook/assets/tile\_network\_grid\_2.png)
+![Network Grid](../../.gitbook/assets/networks/tile_network_grid_1.png) ![Network Crafting Grid](../../.gitbook/assets/tile\_network\_grid\_2.png)
 
 The Network Grids are a player's window into the items currently stored/exposed in/to the Network.
 
@@ -10,7 +10,7 @@ Items can be removed by left clicking on them to remove one (repeat to add more 
 
 Items can also be removed in a stack by right clicking.
 
-![Normal Grid GUI](../../.gitbook/assets/demo\_gui\_grid\_normal.png) ![Crafting Grid GUI](../../.gitbook/assets/demo\_gui\_grid\_crafting.png)
+![Normal Grid GUI](../../.gitbook/assets/networks/demo_gui_grid_normal.png) ![Crafting Grid GUI](../../.gitbook/assets/networks/demo_gui_grid_crafting.png)
 
 Both grids have Page Back/Forward buttons (red stained glass)
 

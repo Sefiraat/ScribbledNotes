@@ -1,6 +1,6 @@
 # Network Remote
 
-![Network Remotes](../../.gitbook/assets/tile\_network\_remote.png)
+![Network Remotes](../../.gitbook/assets/networks/tile_network_remote.png)
 
 The Network Remotes allow for wireless access to a [Network Grid](../network-nodes/network-grid.md)
 
