@@ -100,9 +100,19 @@
 
 ## Crystamae Historia
 
-* [Basics](crystamae-historia/basics.md)
+* [Spell Crafting](crystamae-historia/spell-crafting/README.md)
+  * [What is Crystamae?](crystamae-historia/spell-crafting/what-is-crystamae.md)
+  * [Chronicling](crystamae-historia/spell-crafting/chronicling.md)
+  * [Realisation](crystamae-historia/spell-crafting/realisation.md)
+  * [Liquefaction](crystamae-historia/spell-crafting/liquefaction.md)
+  * [Plate Charging](crystamae-historia/spell-crafting/plate-charging.md)
 * [Tools](crystamae-historia/tools/README.md)
   * [Block Veil](crystamae-historia/tools/block-veil.md)
+  * [Refraction Lens](crystamae-historia/tools/refraction-lens.md)
+* [Gadgets](crystamae-historia/gadgets.md)
+* [Artistic Items](crystamae-historia/artistic-items.md)
+* [Exalted Items](crystamae-historia/exalted-items.md)
+* [Uniques](crystamae-historia/uniques.md)
 
 ## Networks
 
