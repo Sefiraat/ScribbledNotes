@@ -1,6 +1,6 @@
 # Network Autocrafters
 
-![Network Auto-crafter](../../.gitbook/assets/networks/tile_network_autocrafter_1.png) ![Network Auto-crafter (Withholding)](../../.gitbook/assets/networks/tile_network_autocrafter_2.png)
+![Network Auto-crafter](../../.gitbook/assets/tile_network_autocrafter_1.png) ![Network Auto-crafter (Withholding)](../../.gitbook/assets/tile_network_autocrafter_2.png)
 
 The Network Auto-crafters will take a given, [encoded](network-encoder.md), [Crafting Blueprint](../tools/crafting-blueprint.md) and, once per Slimefun Tick, attempt to craft the given pattern using items withdrawn from the Network.
 

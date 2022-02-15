@@ -2,7 +2,7 @@
 
 
 
-![Network Memory Cards](../../.gitbook/assets/networks/tile_network_memory_cards.png)
+![Network Memory Cards](../../.gitbook/assets/tile_network_memory_cards.png)
 
 Network Memory Cards are a deep storage item that can store mass amounts of a single item-type within themselves.
 

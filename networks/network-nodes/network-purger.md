@@ -1,6 +1,6 @@
 # Network Purger
 
-![Network Purger](../../.gitbook/assets/networks/tile_network_purger.png)
+![Network Purger](../../.gitbook/assets/tile_network_purger.png)
 
 The Network Purger is a simple block with a very simple purpose, purge a single matching item from the Network.
 

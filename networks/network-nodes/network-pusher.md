@@ -1,6 +1,6 @@
 # Network Pusher
 
-![Network Pusher](../../.gitbook/assets/networks/tile_network_pusher.png)
+![Network Pusher](../../.gitbook/assets/tile_network_pusher.png)
 
 The Network Pusher is a Directional Network Node who's only purpose is to 'push' items from the Network's exposed items into the target Slimefun Block.
 

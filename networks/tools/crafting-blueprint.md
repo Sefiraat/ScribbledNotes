@@ -1,6 +1,6 @@
 # Crafting Blueprint
 
-![Crafting Blueprint](../../.gitbook/assets/networks/tile_network_crafting_blueprint.png)
+![Crafting Blueprint](../../.gitbook/assets/item_network_crafting_blueprint.png)
 
 The Crafting Blueprint will store a pattern of inputs and a desired output item inside itself.&#x20;
 

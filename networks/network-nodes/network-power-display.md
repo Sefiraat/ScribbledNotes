@@ -1,6 +1,6 @@
 # Network Power Display
 
-![Network Power Display](../../.gitbook/assets/networks/tile_network_power_display.png)
+![Network Power Display](../../.gitbook/assets/tile_network_power_display.png)
 
 The Network Power Display will, on Right Click, display the current total power contained within all attached [Network Capacitors](network-capacitor.md).
 
