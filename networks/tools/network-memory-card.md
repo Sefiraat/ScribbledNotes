@@ -1,8 +1,10 @@
 # Network Memory Card
 
+{% hint style="info" %}
+Memory Cards and Shells have been removed from&#x20;
+{% endhint %}
 
-
-![Network Memory Cards](../../.gitbook/assets/tile_network_memory_cards.png)
+![Network Memory Cards](../../.gitbook/assets/tile\_network\_memory\_cards.png)
 
 Network Memory Cards are a deep storage item that can store mass amounts of a single item-type within themselves.
 
@@ -18,7 +20,7 @@ Cards can be interfaced with by putting the Card inside a Network Shell.
 
 | Card (left to right above) | Max Items Stored |
 | -------------------------- | ---------------- |
-| Card (4k)                  | 4**,**096        |
+| Card (4k)                  | 4\*\*,\*\*096    |
 | Card (32k)                 | 32,768           |
 | Card (262k)                | 262,144          |
 | Card (2m)                  | 2,097,152        |
