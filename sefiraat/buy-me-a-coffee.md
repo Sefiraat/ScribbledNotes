@@ -1,10 +1,11 @@
 # Buy me a coffee?
 
-Sefi likes coffee, a lot of coffee.
+I'll keep working on my addons no matter what, but if you fancy helping me out with development by throwing some coffee money my way, it would be more than welcome and so very appreciated.
 
-If you fancy buying Sefi a coffee, I have a GitHub Sponsors page set up which, I can promise, will be converted directly into coffee at a near 1:1 ratio.
+In return you will get a few minor perks within my addons like:
 
-I'll keep making stuff, sponsors or no, but if you fancy dropping me a dime then feel free to visit my page.
+* You name will be added to a list of names used as Easter eggs within most of my addons, appearing on summoned armour stands, the names for spawns, in Crystamae's Easter egg spell and more. Whenever I need a random name to be applied to something, I will draw it from this pool of names.
+* You can request a custom Crystamae Historia story to be made, it needs to be relatively thematic and unclaimed - you will be noted as the sponsor for that story.
 
 {% embed url="https://github.com/sponsors/Sefiraat?o=esb" %}
 
