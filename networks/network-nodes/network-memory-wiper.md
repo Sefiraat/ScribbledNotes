@@ -1,6 +1,6 @@
 # Network Memory Wiper
 
-![Network Wiper α](../../.gitbook/assets/tile_network_wiper_1.png) ![Network Wiper β](../../.gitbook/assets/networks/tile_network_wiper_2.png) ![Network Wiper γ](../../.gitbook/assets/networks/tile_network_wiper_3.png) ![Network Wiper δ](../../.gitbook/assets/networks/tile_network_wiper_4.png)
+![Network Wiper α](../../.gitbook/assets/networks/tile\_network\_wiper\_1.png) ![Network Wiper β](../../.gitbook/assets/networks/tile\_network\_wiper\_2.png) ![Network Wiper γ](../../.gitbook/assets/networks/tile\_network\_wiper\_3.png) ![Network Wiper δ](../../.gitbook/assets/networks/tile\_network\_wiper\_4.png)
 
 The Network Wipers are designed to drain [Network Memory Cards](../tools/network-memory-card.md). As cards void their content on upgrading, it is important to be able to drain cards before this is done.
 

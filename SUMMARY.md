@@ -61,6 +61,15 @@
 
 ## Netheopoiesis
 
+* [Purification](netheopoiesis/purification/README.md)
+  * [Sleeping in the Nether](netheopoiesis/purification/sleeping-in-the-nether.md)
+  * [Water in the Nether](netheopoiesis/purification/water-in-the-nether.md)
+  * [Friendly Mobs](netheopoiesis/purification/friendly-mobs.md)
+  * [A Better-Barter](netheopoiesis/purification/a-better-barter.md)
+  * [Mob Swapping](netheopoiesis/purification/mob-swapping.md)
+  * [Mob Spawning](netheopoiesis/purification/mob-spawning.md)
+  * [Purifying Aura](netheopoiesis/purification/purifying-aura.md)
+  * [To the End!](netheopoiesis/purification/to-the-end.md)
 * [Plants](netheopoiesis/plants/README.md)
   * [Addon Berry Plant](netheopoiesis/plants/addon-berry-seed.md)
   * [Bartered Plant](netheopoiesis/plants/bartered-seed.md)

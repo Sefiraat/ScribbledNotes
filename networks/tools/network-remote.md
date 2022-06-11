@@ -1,6 +1,6 @@
 # Network Remote
 
-![Network Remotes](../../.gitbook/assets/tile_network_remote.png)
+![Network Remotes](../../.gitbook/assets/networks/tile\_network\_remote.png)
 
 The Network Remotes allow for wireless access to a [Network Grid](../network-nodes/network-grid.md)
 
@@ -18,4 +18,3 @@ Neither Remotes nor Grids will chunk load themselves which means you need to eit
 | Empowered   | 500            | Same dimension only, requires chunk loading. |
 | Pristine    | Unlimited      | Same dimension only, requires chunk loading. |
 | Ultimate    | Unlimited      | Cross-dimensional, requires chunk loading.   |
-

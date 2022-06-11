@@ -1,6 +1,6 @@
 # Network Cell
 
-![Network Cell](../../.gitbook/assets/tile_network_cell.png)
+![Network Cell](../../.gitbook/assets/tile\_netwroks\_cell.png)
 
 A Network cell is the most basic form of storage for a Network.
 

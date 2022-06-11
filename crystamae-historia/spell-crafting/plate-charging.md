@@ -1,6 +1,6 @@
 # Spell Plates
 
-![Basic Plate](../../.gitbook/assets/item\_basic\_plate.png) ![Charged Basic Plate](../../.gitbook/assets/item\_basic\_charged\_plate.png)
+![Basic Plate](../../.gitbook/assets/item\_basic\_charged\_plate.png) ![Charged Basic Plate](../../.gitbook/assets/item\_basic\_plate.png)
 
 Spells are formed by channelling 3 forms of Crysta through the slats of a crafted Spell Plate.
 

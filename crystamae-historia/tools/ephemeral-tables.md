@@ -1,6 +1,6 @@
 # Ephemeral Tables
 
-![Ephemeral Crafting Table](../../.gitbook/assets/item\_ephemeral\_crafting\_table.png) ![Ephemeral Work Bench](../../.gitbook/assets/item\_ephemeral\_work\_bench.png)
+![Ephemeral Crafting Table](../../.gitbook/assets/item\_ephemeral\_work\_bench.png) ![Ephemeral Work Bench](../../.gitbook/assets/item\_ephemeral\_crafting\_table.png)
 
 ### Crafting Table
 

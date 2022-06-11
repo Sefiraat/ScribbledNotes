@@ -1,6 +1,6 @@
 # Network Grabber
 
-![Network Grabber](../../.gitbook/assets/tile_network_grabber.png)
+![Network Grabber](../../.gitbook/assets/networks/tile\_network\_grabber.png)
 
 The Network Grabber is a Directional Network Node who's only purpose is to 'grab' items from the target Slimefun Block and bring it into the Network.
 
