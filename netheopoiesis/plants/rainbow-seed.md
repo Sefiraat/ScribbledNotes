@@ -4,30 +4,28 @@
 
 ### Drops Items
 
-White Dye
-Orange Dye
-Magenta Dye
-Light Blue Dye
-Yellow Dye
-Lime Dye
-Pink Dye
-Gray Dye
-Light Gray Dye
-Cyan Dye
-Purple Dye
-Blue Dye
-Brown Dye
-Green Dye
-Red Dye
-Black Dye
+- White Dye
+- Orange Dye
+- Magenta Dye
+- Light Blue Dye
+- Yellow Dye
+- Lime Dye
+- Pink Dye
+- Gray Dye
+- Light Gray Dye
+- Cyan Dye
+- Purple Dye
+- Blue Dye
+- Brown Dye
+- Green Dye
+- Red Dye
+- Black Dye
 
 
 ### Valid Placements
 
 This plant can be placed on:
 
-- Voracious Dirt
-- Nether Dirt
 - Jungle Crux
 - Snowy Crux
 - Stoney Crux
@@ -35,6 +33,8 @@ This plant can be placed on:
 - Nether Grass
 - Beach Crux
 - Swampy Crux
+- Voracious Dirt
+- Nether Dirt
 
 
 ### Growth Rate

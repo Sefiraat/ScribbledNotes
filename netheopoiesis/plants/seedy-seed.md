@@ -4,18 +4,16 @@
 
 ### Drops Items
 
-Wheat Seeds
-Melon Seeds
-Beetroot Seeds
-Pumpkin Seeds
+- Wheat Seeds
+- Melon Seeds
+- Beetroot Seeds
+- Pumpkin Seeds
 
 
 ### Valid Placements
 
 This plant can be placed on:
 
-- Purified Netherrack
-- Beach Crux
 - Jungle Crux
 - Stoney Crux
 - Voracious Dirt
@@ -24,6 +22,8 @@ This plant can be placed on:
 - Nether Grass
 - Desert Crux
 - Swampy Crux
+- Purified Netherrack
+- Beach Crux
 
 
 ### Growth Rate

@@ -10,7 +10,6 @@ Wither Skeleton
 
 This plant can be placed on:
 
-- Nether Dirt
 - Jungle Crux
 - Snowy Crux
 - Swampy Crux
@@ -18,6 +17,7 @@ This plant can be placed on:
 - Nether Grass
 - Desert Crux
 - Stoney Crux
+- Nether Dirt
 
 
 ### Growth Rate

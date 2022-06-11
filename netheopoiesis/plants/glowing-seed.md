@@ -4,17 +4,15 @@
 
 ### Drops Items
 
-Glow Lichen
-Glow Berries
-Glow Ink Sac
+- Glow Lichen
+- Glow Berries
+- Glow Ink Sac
 
 
 ### Valid Placements
 
 This plant can be placed on:
 
-- Voracious Dirt
-- Nether Dirt
 - Jungle Crux
 - Snowy Crux
 - Stoney Crux
@@ -22,6 +20,8 @@ This plant can be placed on:
 - Nether Grass
 - Beach Crux
 - Swampy Crux
+- Voracious Dirt
+- Nether Dirt
 
 
 ### Growth Rate

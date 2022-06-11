@@ -10,13 +10,13 @@
 
 This plant can be placed on:
 
-- Stoney Crux
 - Jungle Crux
 - Beach Crux
 - Desert Crux
 - Snowy Crux
 - Swampy Crux
 - Nether Grass
+- Stoney Crux
 
 
 ### Growth Rate

@@ -4,18 +4,16 @@
 
 ### Drops Items
 
-Grass
-Tall Grass
-Seagrass
-Tall Seagrass
+- Grass
+- Tall Grass
+- Seagrass
+- Tall Seagrass
 
 
 ### Valid Placements
 
 This plant can be placed on:
 
-- Swampy Crux
-- Basic Purified Netherrack
 - Jungle Crux
 - Nether Grass
 - Nether Dirt
@@ -25,6 +23,8 @@ This plant can be placed on:
 - Desert Crux
 - Stoney Crux
 - Voracious Dirt
+- Swampy Crux
+- Basic Purified Netherrack
 
 
 ### Growth Rate

@@ -4,8 +4,8 @@
 
 ### Drops Items
 
-Heart Of The Sea
-Nautilus Shell
+- Heart Of The Sea
+- Nautilus Shell
 
 
 ### Valid Placements
