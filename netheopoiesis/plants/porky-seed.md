@@ -1,6 +1,6 @@
 # Porky Seed
 
-![Fully grown $Porky Seed Plant](https://mc-heads.net/head/d58dad2e69af296791e6d717422710fd8aa3b6931040688ce9bdf4bdc37584ff) ![$Porky Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
+![Fully grown Porky Seed Plant](https://mc-heads.net/head/d58dad2e69af296791e6d717422710fd8aa3b6931040688ce9bdf4bdc37584ff) ![Porky Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
 
 ### Spawns Mob
 
@@ -10,16 +10,16 @@ Pig
 
 This plant can be placed on:
 
-Beach Crux
-Purified Netherrack
-Swampy Crux
-Desert Crux
-Nether Grass
-Nether Dirt
-Snowy Crux
-Voracious Dirt
-Stoney Crux
-Jungle Crux
+- Purified Netherrack
+- Beach Crux
+- Jungle Crux
+- Stoney Crux
+- Voracious Dirt
+- Snowy Crux
+- Nether Dirt
+- Nether Grass
+- Desert Crux
+- Swampy Crux
 
 
 ### Growth Rate

@@ -1,6 +1,6 @@
 # Busy Seed
 
-![Fully grown $Busy Seed Plant](https://mc-heads.net/head/4503e94702fc5990eb484fe281cc780ab0f798078532bedde5e7ff6b924002f5) ![$Busy Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
+![Fully grown Busy Seed Plant](https://mc-heads.net/head/4503e94702fc5990eb484fe281cc780ab0f798078532bedde5e7ff6b924002f5) ![Busy Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
 
 ### Harvesting Tool Output
 
@@ -10,15 +10,15 @@ When harvested, this plant will drop: Cookie
 
 This plant can be placed on:
 
-Voracious Dirt
-Swampy Crux
-Beach Crux
-Nether Grass
-Desert Crux
-Stoney Crux
-Snowy Crux
-Jungle Crux
-Nether Dirt
+- Voracious Dirt
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Stoney Crux
+- Desert Crux
+- Nether Grass
+- Beach Crux
+- Swampy Crux
 
 
 ### Growth Rate

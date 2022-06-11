@@ -1,6 +1,6 @@
 # Protective Seed
 
-![Fully grown $Protective Seed Plant](https://mc-heads.net/head/ecb30b3df481c831968732d961bdd61c66ee97b348a8a185575782077733e7ae) ![$Protective Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
+![Fully grown Protective Seed Plant](https://mc-heads.net/head/ecb30b3df481c831968732d961bdd61c66ee97b348a8a185575782077733e7ae) ![Protective Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
 
 ### Spawns Mob
 
@@ -10,16 +10,16 @@ Iron Golem
 
 This plant can be placed on:
 
-Beach Crux
-Purified Netherrack
-Swampy Crux
-Desert Crux
-Nether Grass
-Nether Dirt
-Snowy Crux
-Voracious Dirt
-Stoney Crux
-Jungle Crux
+- Purified Netherrack
+- Beach Crux
+- Jungle Crux
+- Stoney Crux
+- Voracious Dirt
+- Snowy Crux
+- Nether Dirt
+- Nether Grass
+- Desert Crux
+- Swampy Crux
 
 
 ### Growth Rate

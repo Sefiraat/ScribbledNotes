@@ -1,6 +1,6 @@
 # Bartered Seed
 
-![Fully grown $Bartered Seed Plant](https://mc-heads.net/head/3320662dec3f6a7bd6d38211c894a46c98a12571c6eb1f9184a78267bb3653a1) ![$Bartered Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
+![Fully grown Bartered Seed Plant](https://mc-heads.net/head/3320662dec3f6a7bd6d38211c894a46c98a12571c6eb1f9184a78267bb3653a1) ![Bartered Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
 
 ### Spawns Mob
 
@@ -10,15 +10,15 @@ Piglin
 
 This plant can be placed on:
 
-Voracious Dirt
-Swampy Crux
-Beach Crux
-Nether Grass
-Desert Crux
-Stoney Crux
-Snowy Crux
-Jungle Crux
-Nether Dirt
+- Voracious Dirt
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Stoney Crux
+- Desert Crux
+- Nether Grass
+- Beach Crux
+- Swampy Crux
 
 
 ### Growth Rate

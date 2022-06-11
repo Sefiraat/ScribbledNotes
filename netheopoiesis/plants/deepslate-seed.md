@@ -1,6 +1,6 @@
 # Deepslate Seed
 
-![Fully grown $Deepslate Seed Plant](https://mc-heads.net/head/93ee8ff4259fb10ea229399c0bc4b12e3c393d3dc94a0c4610a6bc2ec11940f9) ![$Deepslate Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
+![Fully grown Deepslate Seed Plant](https://mc-heads.net/head/93ee8ff4259fb10ea229399c0bc4b12e3c393d3dc94a0c4610a6bc2ec11940f9) ![Deepslate Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
 
 ### Harvesting Tool Output
 
@@ -10,17 +10,17 @@ When harvested, this plant will drop: Cobbled Deepslate
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

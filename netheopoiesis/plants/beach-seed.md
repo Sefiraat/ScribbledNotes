@@ -1,6 +1,6 @@
 # Beach Seed
 
-![Fully grown $Beach Seed Plant](https://mc-heads.net/head/fa95153fc73058dabee2181a3b2c10774428e5dfee6e82b324e84ea06ea8d272) ![$Beach Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
+![Fully grown Beach Seed Plant](https://mc-heads.net/head/fa95153fc73058dabee2181a3b2c10774428e5dfee6e82b324e84ea06ea8d272) ![Beach Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
 
 ### Purification
 
@@ -10,8 +10,8 @@ Purifies nearby blocks into: Beach Crux and changes the Biome to: BEACH
 
 This plant can be placed on:
 
-Nether Grass
-Beach Crux
+- Beach Crux
+- Nether Grass
 
 
 ### Growth Rate

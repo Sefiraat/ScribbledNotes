@@ -1,6 +1,6 @@
 # Nori Seed
 
-![Fully grown $Nori Seed Plant](https://mc-heads.net/head/11c4883237524820b7a54dc2fc10c4a2fb382ef5a5b11fa4d7c7ada61e9bcd67) ![$Nori Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
+![Fully grown Nori Seed Plant](https://mc-heads.net/head/11c4883237524820b7a54dc2fc10c4a2fb382ef5a5b11fa4d7c7ada61e9bcd67) ![Nori Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
 
 ### Harvesting Tool Output
 
@@ -10,17 +10,17 @@ When harvested, this plant will drop: Kelp
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

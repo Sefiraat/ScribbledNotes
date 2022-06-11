@@ -1,6 +1,6 @@
 # Gateway Seed
 
-![Fully grown $Gateway Seed Plant](https://mc-heads.net/head/ecb30b3df481c831968732d961bdd61c66ee97b348a8a185575782077733e7ae) ![$Gateway Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
+![Fully grown Gateway Seed Plant](https://mc-heads.net/head/ecb30b3df481c831968732d961bdd61c66ee97b348a8a185575782077733e7ae) ![Gateway Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
 
 ### Spawns Mob
 
@@ -10,14 +10,14 @@ Villager
 
 This plant can be placed on:
 
-Nether Dirt
-Stoney Crux
-Desert Crux
-Nether Grass
-Beach Crux
-Swampy Crux
-Snowy Crux
-Jungle Crux
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Swampy Crux
+- Beach Crux
+- Nether Grass
+- Desert Crux
+- Stoney Crux
 
 
 ### Growth Rate

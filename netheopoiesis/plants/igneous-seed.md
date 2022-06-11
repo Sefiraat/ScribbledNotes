@@ -1,6 +1,6 @@
 # Igneous Seed
 
-![Fully grown $Igneous Seed Plant](https://mc-heads.net/head/a0186448ba098e3a4c832aa015bc93dd27be7c457928e7d236779c6dc264c804) ![$Igneous Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
+![Fully grown Igneous Seed Plant](https://mc-heads.net/head/a0186448ba098e3a4c832aa015bc93dd27be7c457928e7d236779c6dc264c804) ![Igneous Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
 
 ### Harvesting Tool Output
 
@@ -10,17 +10,17 @@ When harvested, this plant will drop: Andesite
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

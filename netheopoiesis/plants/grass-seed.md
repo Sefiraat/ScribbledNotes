@@ -1,6 +1,6 @@
 # Grass Seed
 
-![Fully grown $Grass Seed Plant](https://mc-heads.net/head/dff0e450b1bd59c2dc1e66d08202e8fa5d4839fd69e60491880a54dee0865ff8) ![$Grass Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
+![Fully grown Grass Seed Plant](https://mc-heads.net/head/dff0e450b1bd59c2dc1e66d08202e8fa5d4839fd69e60491880a54dee0865ff8) ![Grass Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
 
 ### Drops Items
 
@@ -14,17 +14,17 @@ Tall Seagrass
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

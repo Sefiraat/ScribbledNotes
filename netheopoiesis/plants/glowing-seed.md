@@ -1,6 +1,6 @@
 # Glowing Seed
 
-![Fully grown $Glowing Seed Plant](https://mc-heads.net/head/42d66c718e4896940c385505ea3a4c49b51d4a3c038b8ca00df47fa1d79ee48a) ![$Glowing Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
+![Fully grown Glowing Seed Plant](https://mc-heads.net/head/42d66c718e4896940c385505ea3a4c49b51d4a3c038b8ca00df47fa1d79ee48a) ![Glowing Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
 
 ### Drops Items
 
@@ -13,15 +13,15 @@ Glow Ink Sac
 
 This plant can be placed on:
 
-Voracious Dirt
-Swampy Crux
-Beach Crux
-Nether Grass
-Desert Crux
-Stoney Crux
-Snowy Crux
-Jungle Crux
-Nether Dirt
+- Voracious Dirt
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Stoney Crux
+- Desert Crux
+- Nether Grass
+- Beach Crux
+- Swampy Crux
 
 
 ### Growth Rate

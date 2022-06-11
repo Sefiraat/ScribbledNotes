@@ -1,6 +1,6 @@
 # Ethereal Seed
 
-![Fully grown $Ethereal Seed Plant](https://mc-heads.net/head/1ddf74a820029bea73668144ee889855e95a47f349000ba218f3b022b1f04b0c) ![$Ethereal Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
+![Fully grown Ethereal Seed Plant](https://mc-heads.net/head/1ddf74a820029bea73668144ee889855e95a47f349000ba218f3b022b1f04b0c) ![Ethereal Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
 
 ### Spawns Mob
 
@@ -10,15 +10,15 @@ Enderman
 
 This plant can be placed on:
 
-Voracious Dirt
-Swampy Crux
-Beach Crux
-Nether Grass
-Desert Crux
-Stoney Crux
-Snowy Crux
-Jungle Crux
-Nether Dirt
+- Voracious Dirt
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Stoney Crux
+- Desert Crux
+- Nether Grass
+- Beach Crux
+- Swampy Crux
 
 
 ### Growth Rate

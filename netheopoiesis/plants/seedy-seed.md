@@ -1,6 +1,6 @@
 # Seedy Seed
 
-![Fully grown $Seedy Seed Plant](https://mc-heads.net/head/3f338ebad1e7888a903ce5ab3a9822807c08d13ee63ab4591a702f70ceb98d47) ![$Seedy Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
+![Fully grown Seedy Seed Plant](https://mc-heads.net/head/3f338ebad1e7888a903ce5ab3a9822807c08d13ee63ab4591a702f70ceb98d47) ![Seedy Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
 
 ### Drops Items
 
@@ -14,16 +14,16 @@ Pumpkin Seeds
 
 This plant can be placed on:
 
-Beach Crux
-Purified Netherrack
-Swampy Crux
-Desert Crux
-Nether Grass
-Nether Dirt
-Snowy Crux
-Voracious Dirt
-Stoney Crux
-Jungle Crux
+- Purified Netherrack
+- Beach Crux
+- Jungle Crux
+- Stoney Crux
+- Voracious Dirt
+- Snowy Crux
+- Nether Dirt
+- Nether Grass
+- Desert Crux
+- Swampy Crux
 
 
 ### Growth Rate

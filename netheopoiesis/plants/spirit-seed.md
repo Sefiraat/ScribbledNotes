@@ -1,6 +1,6 @@
 # Spirit Seed
 
-![Fully grown $Spirit Seed Plant](https://mc-heads.net/head/b1c7c32ad07715a5e610dfb7d292b330f70cfc00551aca5cbf2a374c2aedcc75) ![$Spirit Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
+![Fully grown Spirit Seed Plant](https://mc-heads.net/head/b1c7c32ad07715a5e610dfb7d292b330f70cfc00551aca5cbf2a374c2aedcc75) ![Spirit Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
 
 ### Purification
 
@@ -10,16 +10,16 @@ Purifies nearby blocks into: Voracious Dirt
 
 This plant can be placed on:
 
-Beach Crux
-Purified Netherrack
-Swampy Crux
-Desert Crux
-Nether Grass
-Nether Dirt
-Snowy Crux
-Voracious Dirt
-Stoney Crux
-Jungle Crux
+- Purified Netherrack
+- Beach Crux
+- Jungle Crux
+- Stoney Crux
+- Voracious Dirt
+- Snowy Crux
+- Nether Dirt
+- Nether Grass
+- Desert Crux
+- Swampy Crux
 
 
 ### Growth Rate

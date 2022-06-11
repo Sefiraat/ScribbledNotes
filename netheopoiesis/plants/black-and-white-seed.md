@@ -1,6 +1,6 @@
 # Black And White Seed
 
-![Fully grown $Black And White Seed Plant](https://mc-heads.net/head/111adf6dba9232d2165e92ed2425cd72992064dbae7d9c1a427ba69d9c22e840) ![$Black And White Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
+![Fully grown Black And White Seed Plant](https://mc-heads.net/head/111adf6dba9232d2165e92ed2425cd72992064dbae7d9c1a427ba69d9c22e840) ![Black And White Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
 
 ### Spawns Mob
 
@@ -10,7 +10,7 @@ Panda
 
 This plant can be placed on:
 
-Jungle Crux
+- Jungle Crux
 
 
 ### Growth Rate

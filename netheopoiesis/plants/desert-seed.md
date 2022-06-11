@@ -1,6 +1,6 @@
 # Desert Seed
 
-![Fully grown $Desert Seed Plant](https://mc-heads.net/head/d71c02a3972ff608ecedb0dc92722d177ac89f25ba6f632ca38eda01fc4ea03c) ![$Desert Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
+![Fully grown Desert Seed Plant](https://mc-heads.net/head/d71c02a3972ff608ecedb0dc92722d177ac89f25ba6f632ca38eda01fc4ea03c) ![Desert Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
 
 ### Purification
 
@@ -10,8 +10,8 @@ Purifies nearby blocks into: Snowy Crux and changes the Biome to: SNOWY_PLAINS
 
 This plant can be placed on:
 
-Nether Grass
-Snowy Crux
+- Snowy Crux
+- Nether Grass
 
 
 ### Growth Rate

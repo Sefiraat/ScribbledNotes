@@ -1,6 +1,6 @@
 # Dusty Seed
 
-![Fully grown $Dusty Seed Plant](https://mc-heads.net/head/c33817aeb0987b6588292809879b755d21d423ce3627918318df6a5599ef6047) ![$Dusty Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
+![Fully grown Dusty Seed Plant](https://mc-heads.net/head/c33817aeb0987b6588292809879b755d21d423ce3627918318df6a5599ef6047) ![Dusty Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
 
 ### Harvesting Tool Output
 
@@ -10,17 +10,17 @@ When harvested, this plant will drop: Gravel
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

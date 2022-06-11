@@ -1,6 +1,6 @@
 # Tarnished Seed
 
-![Fully grown $Tarnished Seed Plant](https://mc-heads.net/head/688af28611e334a8afbe83490e1d6280a60b0ffe58c087104822d73a6b290cf0) ![$Tarnished Seed Seed](https://mc-heads.net/head/db28b2cb42082d1cf1b31a26f9d3855c782d055482a43f675b42435152a95543)
+![Fully grown Tarnished Seed Plant](https://mc-heads.net/head/688af28611e334a8afbe83490e1d6280a60b0ffe58c087104822d73a6b290cf0) ![Tarnished Seed Seed](https://mc-heads.net/head/db28b2cb42082d1cf1b31a26f9d3855c782d055482a43f675b42435152a95543)
 
 ### Harvesting Tool Output
 
@@ -10,17 +10,17 @@ When harvested, this plant will drop: Raw Copper
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

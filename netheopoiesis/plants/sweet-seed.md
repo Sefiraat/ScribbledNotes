@@ -1,6 +1,6 @@
 # Sweet Seed
 
-![Fully grown $Sweet Seed Plant](https://mc-heads.net/head/c33817aeb0987b6588292809879b755d21d423ce3627918318df6a5599ef6047) ![$Sweet Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
+![Fully grown Sweet Seed Plant](https://mc-heads.net/head/c33817aeb0987b6588292809879b755d21d423ce3627918318df6a5599ef6047) ![Sweet Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
 
 ### On Tick
 
@@ -10,16 +10,16 @@
 
 This plant can be placed on:
 
-Beach Crux
-Purified Netherrack
-Swampy Crux
-Desert Crux
-Nether Grass
-Nether Dirt
-Snowy Crux
-Voracious Dirt
-Stoney Crux
-Jungle Crux
+- Purified Netherrack
+- Beach Crux
+- Jungle Crux
+- Stoney Crux
+- Voracious Dirt
+- Snowy Crux
+- Nether Dirt
+- Nether Grass
+- Desert Crux
+- Swampy Crux
 
 
 ### Growth Rate

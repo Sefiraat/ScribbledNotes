@@ -1,6 +1,6 @@
 # Spiney Seed
 
-![Fully grown $Spiney Seed Plant](https://mc-heads.net/head/11c4883237524820b7a54dc2fc10c4a2fb382ef5a5b11fa4d7c7ada61e9bcd67) ![$Spiney Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
+![Fully grown Spiney Seed Plant](https://mc-heads.net/head/11c4883237524820b7a54dc2fc10c4a2fb382ef5a5b11fa4d7c7ada61e9bcd67) ![Spiney Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
 
 ### On Tick
 
@@ -10,7 +10,7 @@
 
 This plant can be placed on:
 
-Desert Crux
+- Desert Crux
 
 
 ### Growth Rate

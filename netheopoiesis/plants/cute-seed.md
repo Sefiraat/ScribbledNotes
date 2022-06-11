@@ -1,6 +1,6 @@
 # Cute Seed
 
-![Fully grown $Cute Seed Plant](https://mc-heads.net/head/111adf6dba9232d2165e92ed2425cd72992064dbae7d9c1a427ba69d9c22e840) ![$Cute Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
+![Fully grown Cute Seed Plant](https://mc-heads.net/head/111adf6dba9232d2165e92ed2425cd72992064dbae7d9c1a427ba69d9c22e840) ![Cute Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
 
 ### Spawns Mob
 
@@ -10,14 +10,14 @@ Axolotl
 
 This plant can be placed on:
 
-Nether Dirt
-Stoney Crux
-Desert Crux
-Nether Grass
-Beach Crux
-Swampy Crux
-Snowy Crux
-Jungle Crux
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Swampy Crux
+- Beach Crux
+- Nether Grass
+- Desert Crux
+- Stoney Crux
 
 
 ### Growth Rate

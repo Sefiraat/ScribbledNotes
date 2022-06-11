@@ -1,6 +1,6 @@
 # Shiny Seed
 
-![Fully grown $Shiny Seed Plant](https://mc-heads.net/head/fa95153fc73058dabee2181a3b2c10774428e5dfee6e82b324e84ea06ea8d272) ![$Shiny Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
+![Fully grown Shiny Seed Plant](https://mc-heads.net/head/fa95153fc73058dabee2181a3b2c10774428e5dfee6e82b324e84ea06ea8d272) ![Shiny Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
 
 ### Harvesting Tool Output
 
@@ -10,17 +10,17 @@ When harvested, this plant will drop: Gold Nugget
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

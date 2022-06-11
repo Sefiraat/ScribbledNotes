@@ -1,6 +1,6 @@
 # Pulsing Seed
 
-![Fully grown $Pulsing Seed Plant](https://mc-heads.net/head/dff0e450b1bd59c2dc1e66d08202e8fa5d4839fd69e60491880a54dee0865ff8) ![$Pulsing Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
+![Fully grown Pulsing Seed Plant](https://mc-heads.net/head/dff0e450b1bd59c2dc1e66d08202e8fa5d4839fd69e60491880a54dee0865ff8) ![Pulsing Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
 
 ### On Tick
 
@@ -10,14 +10,14 @@
 
 This plant can be placed on:
 
-Nether Dirt
-Stoney Crux
-Desert Crux
-Nether Grass
-Beach Crux
-Swampy Crux
-Snowy Crux
-Jungle Crux
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Swampy Crux
+- Beach Crux
+- Nether Grass
+- Desert Crux
+- Stoney Crux
 
 
 ### Growth Rate

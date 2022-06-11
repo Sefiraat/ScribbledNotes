@@ -1,6 +1,6 @@
 # Saintly Seed
 
-![Fully grown $Saintly Seed Plant](https://mc-heads.net/head/b1c7c32ad07715a5e610dfb7d292b330f70cfc00551aca5cbf2a374c2aedcc75) ![$Saintly Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
+![Fully grown Saintly Seed Plant](https://mc-heads.net/head/b1c7c32ad07715a5e610dfb7d292b330f70cfc00551aca5cbf2a374c2aedcc75) ![Saintly Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
 
 ### Purification
 
@@ -10,15 +10,15 @@ Purifies nearby blocks into: Nether Dirt
 
 This plant can be placed on:
 
-Voracious Dirt
-Swampy Crux
-Beach Crux
-Nether Grass
-Desert Crux
-Stoney Crux
-Snowy Crux
-Jungle Crux
-Nether Dirt
+- Voracious Dirt
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Stoney Crux
+- Desert Crux
+- Nether Grass
+- Beach Crux
+- Swampy Crux
 
 
 ### Growth Rate

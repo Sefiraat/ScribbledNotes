@@ -1,6 +1,6 @@
 # Feldspar Seed
 
-![Fully grown $Feldspar Seed Plant](https://mc-heads.net/head/3f338ebad1e7888a903ce5ab3a9822807c08d13ee63ab4591a702f70ceb98d47) ![$Feldspar Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
+![Fully grown Feldspar Seed Plant](https://mc-heads.net/head/3f338ebad1e7888a903ce5ab3a9822807c08d13ee63ab4591a702f70ceb98d47) ![Feldspar Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
 
 ### Harvesting Tool Output
 
@@ -10,17 +10,17 @@ When harvested, this plant will drop: Diorite
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

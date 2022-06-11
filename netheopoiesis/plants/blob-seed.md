@@ -1,6 +1,6 @@
 # Blob Seed
 
-![Fully grown $Blob Seed Plant](https://mc-heads.net/head/3f338ebad1e7888a903ce5ab3a9822807c08d13ee63ab4591a702f70ceb98d47) ![$Blob Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
+![Fully grown Blob Seed Plant](https://mc-heads.net/head/3f338ebad1e7888a903ce5ab3a9822807c08d13ee63ab4591a702f70ceb98d47) ![Blob Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
 
 ### On Tick
 
@@ -10,7 +10,7 @@
 
 This plant can be placed on:
 
-Swampy Crux
+- Swampy Crux
 
 
 ### Growth Rate

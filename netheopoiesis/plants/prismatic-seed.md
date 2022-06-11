@@ -1,6 +1,6 @@
 # Prismatic Seed
 
-![Fully grown $Prismatic Seed Plant](https://mc-heads.net/head/3f338ebad1e7888a903ce5ab3a9822807c08d13ee63ab4591a702f70ceb98d47) ![$Prismatic Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
+![Fully grown Prismatic Seed Plant](https://mc-heads.net/head/3f338ebad1e7888a903ce5ab3a9822807c08d13ee63ab4591a702f70ceb98d47) ![Prismatic Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
 
 ### Harvesting Tool Output
 
@@ -10,15 +10,15 @@ When harvested, this plant will drop: Sponge
 
 This plant can be placed on:
 
-Voracious Dirt
-Swampy Crux
-Beach Crux
-Nether Grass
-Desert Crux
-Stoney Crux
-Snowy Crux
-Jungle Crux
-Nether Dirt
+- Voracious Dirt
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Stoney Crux
+- Desert Crux
+- Nether Grass
+- Beach Crux
+- Swampy Crux
 
 
 ### Growth Rate

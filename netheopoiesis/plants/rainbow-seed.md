@@ -1,6 +1,6 @@
 # Rainbow Seed
 
-![Fully grown $Rainbow Seed Plant](https://mc-heads.net/head/d71c02a3972ff608ecedb0dc92722d177ac89f25ba6f632ca38eda01fc4ea03c) ![$Rainbow Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
+![Fully grown Rainbow Seed Plant](https://mc-heads.net/head/d71c02a3972ff608ecedb0dc92722d177ac89f25ba6f632ca38eda01fc4ea03c) ![Rainbow Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
 
 ### Drops Items
 
@@ -26,15 +26,15 @@ Black Dye
 
 This plant can be placed on:
 
-Voracious Dirt
-Swampy Crux
-Beach Crux
-Nether Grass
-Desert Crux
-Stoney Crux
-Snowy Crux
-Jungle Crux
-Nether Dirt
+- Voracious Dirt
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Stoney Crux
+- Desert Crux
+- Nether Grass
+- Beach Crux
+- Swampy Crux
 
 
 ### Growth Rate

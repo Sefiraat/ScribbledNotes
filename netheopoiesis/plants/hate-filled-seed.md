@@ -1,6 +1,6 @@
 # Hate-filled Seed
 
-![Fully grown $Hate-filled Seed Plant](https://mc-heads.net/head/20337051d8ff712e34017b0e460378f471780776093f62f6e35bf6da47364d8e) ![$Hate-filled Seed Seed](https://mc-heads.net/head/db28b2cb42082d1cf1b31a26f9d3855c782d055482a43f675b42435152a95543)
+![Fully grown Hate-filled Seed Plant](https://mc-heads.net/head/20337051d8ff712e34017b0e460378f471780776093f62f6e35bf6da47364d8e) ![Hate-filled Seed Seed](https://mc-heads.net/head/db28b2cb42082d1cf1b31a26f9d3855c782d055482a43f675b42435152a95543)
 
 ### On Tick
 
@@ -10,14 +10,14 @@
 
 This plant can be placed on:
 
-Nether Dirt
-Stoney Crux
-Desert Crux
-Nether Grass
-Beach Crux
-Swampy Crux
-Snowy Crux
-Jungle Crux
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Swampy Crux
+- Beach Crux
+- Nether Grass
+- Desert Crux
+- Stoney Crux
 
 
 ### Growth Rate

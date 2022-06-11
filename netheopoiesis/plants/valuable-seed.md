@@ -1,6 +1,6 @@
 # Valuable Seed
 
-![Fully grown $Valuable Seed Plant](https://mc-heads.net/head/dff0e450b1bd59c2dc1e66d08202e8fa5d4839fd69e60491880a54dee0865ff8) ![$Valuable Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
+![Fully grown Valuable Seed Plant](https://mc-heads.net/head/dff0e450b1bd59c2dc1e66d08202e8fa5d4839fd69e60491880a54dee0865ff8) ![Valuable Seed Seed](https://mc-heads.net/head/95b92a13f01baece56654e817833f9829bc025ad733609c0bdd0d3a359c9d943)
 
 ### Harvesting Tool Output
 
@@ -10,16 +10,16 @@ When harvested, this plant will drop: Emerald
 
 This plant can be placed on:
 
-Beach Crux
-Purified Netherrack
-Swampy Crux
-Desert Crux
-Nether Grass
-Nether Dirt
-Snowy Crux
-Voracious Dirt
-Stoney Crux
-Jungle Crux
+- Purified Netherrack
+- Beach Crux
+- Jungle Crux
+- Stoney Crux
+- Voracious Dirt
+- Snowy Crux
+- Nether Dirt
+- Nether Grass
+- Desert Crux
+- Swampy Crux
 
 
 ### Growth Rate

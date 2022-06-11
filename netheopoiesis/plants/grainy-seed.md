@@ -1,6 +1,6 @@
 # Grainy Seed
 
-![Fully grown $Grainy Seed Plant](https://mc-heads.net/head/b656ebee195ba6eea2a1ec7c732c2588c6c824ec569650b12d074d8402b624f) ![$Grainy Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
+![Fully grown Grainy Seed Plant](https://mc-heads.net/head/b656ebee195ba6eea2a1ec7c732c2588c6c824ec569650b12d074d8402b624f) ![Grainy Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
 
 ### Drops Items
 
@@ -11,17 +11,17 @@ Redstone
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

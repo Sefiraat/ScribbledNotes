@@ -1,6 +1,6 @@
 # Math Seed
 
-![Fully grown $Math Seed Plant](https://mc-heads.net/head/6908223ba0eb362d3bb641d20750583d91450a8d868bd62665563ad0845a0e4b) ![$Math Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
+![Fully grown Math Seed Plant](https://mc-heads.net/head/6908223ba0eb362d3bb641d20750583d91450a8d868bd62665563ad0845a0e4b) ![Math Seed Seed](https://mc-heads.net/head/9fd6f27013701cd46bf32066ef2ecf90f1099be89f2e0bd9cc145479970c24b6)
 
 ### On Tick
 
@@ -10,14 +10,14 @@
 
 This plant can be placed on:
 
-Nether Dirt
-Stoney Crux
-Desert Crux
-Nether Grass
-Beach Crux
-Swampy Crux
-Snowy Crux
-Jungle Crux
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Swampy Crux
+- Beach Crux
+- Nether Grass
+- Desert Crux
+- Stoney Crux
 
 
 ### Growth Rate

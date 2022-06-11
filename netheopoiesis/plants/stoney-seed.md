@@ -1,6 +1,6 @@
 # Stoney Seed
 
-![Fully grown $Stoney Seed Plant](https://mc-heads.net/head/93ee8ff4259fb10ea229399c0bc4b12e3c393d3dc94a0c4610a6bc2ec11940f9) ![$Stoney Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
+![Fully grown Stoney Seed Plant](https://mc-heads.net/head/93ee8ff4259fb10ea229399c0bc4b12e3c393d3dc94a0c4610a6bc2ec11940f9) ![Stoney Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
 
 ### Purification
 
@@ -10,8 +10,8 @@ Purifies nearby blocks into: Snowy Crux and changes the Biome to: STONY_SHORE
 
 This plant can be placed on:
 
-Nether Grass
-Stoney Crux
+- Stoney Crux
+- Nether Grass
 
 
 ### Growth Rate

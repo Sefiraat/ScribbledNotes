@@ -1,6 +1,6 @@
 # Addon-berry Seed
 
-![Fully grown $Addon-berry Seed Plant](https://mc-heads.net/head/4503e94702fc5990eb484fe281cc780ab0f798078532bedde5e7ff6b924002f5) ![$Addon-berry Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
+![Fully grown Addon-berry Seed Plant](https://mc-heads.net/head/4503e94702fc5990eb484fe281cc780ab0f798078532bedde5e7ff6b924002f5) ![Addon-berry Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
 
 ### Harvesting Tool Output
 
@@ -10,14 +10,14 @@ When harvested, this plant will drop: Addon Berry
 
 This plant can be placed on:
 
-Nether Dirt
-Stoney Crux
-Desert Crux
-Nether Grass
-Beach Crux
-Swampy Crux
-Snowy Crux
-Jungle Crux
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Swampy Crux
+- Beach Crux
+- Nether Grass
+- Desert Crux
+- Stoney Crux
 
 
 ### Growth Rate

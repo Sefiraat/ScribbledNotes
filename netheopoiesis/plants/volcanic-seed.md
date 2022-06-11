@@ -1,6 +1,6 @@
 # Volcanic Seed
 
-![Fully grown $Volcanic Seed Plant](https://mc-heads.net/head/42d66c718e4896940c385505ea3a4c49b51d4a3c038b8ca00df47fa1d79ee48a) ![$Volcanic Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
+![Fully grown Volcanic Seed Plant](https://mc-heads.net/head/42d66c718e4896940c385505ea3a4c49b51d4a3c038b8ca00df47fa1d79ee48a) ![Volcanic Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
 
 ### Harvesting Tool Output
 
@@ -10,17 +10,17 @@ When harvested, this plant will drop: Granite
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

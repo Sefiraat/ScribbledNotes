@@ -1,6 +1,6 @@
 # Best Friend Seed
 
-![Fully grown $Best Friend Seed Plant](https://mc-heads.net/head/3320662dec3f6a7bd6d38211c894a46c98a12571c6eb1f9184a78267bb3653a1) ![$Best Friend Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
+![Fully grown Best Friend Seed Plant](https://mc-heads.net/head/3320662dec3f6a7bd6d38211c894a46c98a12571c6eb1f9184a78267bb3653a1) ![Best Friend Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
 
 ### Spawns Mob
 
@@ -10,14 +10,14 @@ Wolf
 
 This plant can be placed on:
 
-Nether Dirt
-Stoney Crux
-Desert Crux
-Nether Grass
-Beach Crux
-Swampy Crux
-Snowy Crux
-Jungle Crux
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Swampy Crux
+- Beach Crux
+- Nether Grass
+- Desert Crux
+- Stoney Crux
 
 
 ### Growth Rate

@@ -1,6 +1,6 @@
 # Buzzing Seed
 
-![Fully grown $Buzzing Seed Plant](https://mc-heads.net/head/fa95153fc73058dabee2181a3b2c10774428e5dfee6e82b324e84ea06ea8d272) ![$Buzzing Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
+![Fully grown Buzzing Seed Plant](https://mc-heads.net/head/fa95153fc73058dabee2181a3b2c10774428e5dfee6e82b324e84ea06ea8d272) ![Buzzing Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
 
 ### Harvesting Tool Output
 
@@ -10,14 +10,14 @@ When harvested, this plant will drop: Honeycomb
 
 This plant can be placed on:
 
-Nether Dirt
-Stoney Crux
-Desert Crux
-Nether Grass
-Beach Crux
-Swampy Crux
-Snowy Crux
-Jungle Crux
+- Nether Dirt
+- Jungle Crux
+- Snowy Crux
+- Swampy Crux
+- Beach Crux
+- Nether Grass
+- Desert Crux
+- Stoney Crux
 
 
 ### Growth Rate

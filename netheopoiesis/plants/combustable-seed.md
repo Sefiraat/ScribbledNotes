@@ -1,6 +1,6 @@
 # Combustable Seed
 
-![Fully grown $Combustable Seed Plant](https://mc-heads.net/head/4503e94702fc5990eb484fe281cc780ab0f798078532bedde5e7ff6b924002f5) ![$Combustable Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
+![Fully grown Combustable Seed Plant](https://mc-heads.net/head/4503e94702fc5990eb484fe281cc780ab0f798078532bedde5e7ff6b924002f5) ![Combustable Seed Seed](https://mc-heads.net/head/660e8f971fcc83cf57a3e15b458317119e9f623d441bbf197e68125c80a23f30)
 
 ### Harvesting Tool Output
 
@@ -10,16 +10,16 @@ When harvested, this plant will drop: Coal
 
 This plant can be placed on:
 
-Beach Crux
-Purified Netherrack
-Swampy Crux
-Desert Crux
-Nether Grass
-Nether Dirt
-Snowy Crux
-Voracious Dirt
-Stoney Crux
-Jungle Crux
+- Purified Netherrack
+- Beach Crux
+- Jungle Crux
+- Stoney Crux
+- Voracious Dirt
+- Snowy Crux
+- Nether Dirt
+- Nether Grass
+- Desert Crux
+- Swampy Crux
 
 
 ### Growth Rate

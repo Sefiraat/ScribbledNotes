@@ -1,6 +1,6 @@
 # Stray Seed
 
-![Fully grown $Stray Seed Plant](https://mc-heads.net/head/3320662dec3f6a7bd6d38211c894a46c98a12571c6eb1f9184a78267bb3653a1) ![$Stray Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
+![Fully grown Stray Seed Plant](https://mc-heads.net/head/3320662dec3f6a7bd6d38211c894a46c98a12571c6eb1f9184a78267bb3653a1) ![Stray Seed Seed](https://mc-heads.net/head/22be7169884ad820acaed7a717679cd0d91dcd3d6c1db81e6ac28a2bcd3534a0)
 
 ### Spawns Mob
 
@@ -10,7 +10,7 @@ Stray
 
 This plant can be placed on:
 
-Snowy Crux
+- Snowy Crux
 
 
 ### Growth Rate

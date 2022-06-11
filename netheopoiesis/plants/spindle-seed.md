@@ -1,6 +1,6 @@
 # Spindle Seed
 
-![Fully grown $Spindle Seed Plant](https://mc-heads.net/head/9e6252f4472a0f9b4a226ead65f45033f4564b62a6577aa08af91568b6aaa7f2) ![$Spindle Seed Seed](https://mc-heads.net/head/db28b2cb42082d1cf1b31a26f9d3855c782d055482a43f675b42435152a95543)
+![Fully grown Spindle Seed Plant](https://mc-heads.net/head/9e6252f4472a0f9b4a226ead65f45033f4564b62a6577aa08af91568b6aaa7f2) ![Spindle Seed Seed](https://mc-heads.net/head/db28b2cb42082d1cf1b31a26f9d3855c782d055482a43f675b42435152a95543)
 
 ### On Tick
 
@@ -10,17 +10,17 @@
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

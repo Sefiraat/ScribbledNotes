@@ -1,6 +1,6 @@
 # Crystalline Seed
 
-![Fully grown $Crystalline Seed Plant](https://mc-heads.net/head/9e6252f4472a0f9b4a226ead65f45033f4564b62a6577aa08af91568b6aaa7f2) ![$Crystalline Seed Seed](https://mc-heads.net/head/db28b2cb42082d1cf1b31a26f9d3855c782d055482a43f675b42435152a95543)
+![Fully grown Crystalline Seed Plant](https://mc-heads.net/head/9e6252f4472a0f9b4a226ead65f45033f4564b62a6577aa08af91568b6aaa7f2) ![Crystalline Seed Seed](https://mc-heads.net/head/db28b2cb42082d1cf1b31a26f9d3855c782d055482a43f675b42435152a95543)
 
 ### {TYPE_FEATURE}
 
@@ -10,13 +10,13 @@
 
 This plant can be placed on:
 
-Nether Grass
-Swampy Crux
-Snowy Crux
-Desert Crux
-Beach Crux
-Jungle Crux
-Stoney Crux
+- Stoney Crux
+- Jungle Crux
+- Beach Crux
+- Desert Crux
+- Snowy Crux
+- Swampy Crux
+- Nether Grass
 
 
 ### Growth Rate

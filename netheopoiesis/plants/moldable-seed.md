@@ -1,6 +1,6 @@
 # Moldable Seed
 
-![Fully grown $Moldable Seed Plant](https://mc-heads.net/head/fc15c73a48d15942aa7a1861ae4fd088f0d0cab75b8dd1e9ad98b2851f5986bc) ![$Moldable Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
+![Fully grown Moldable Seed Plant](https://mc-heads.net/head/fc15c73a48d15942aa7a1861ae4fd088f0d0cab75b8dd1e9ad98b2851f5986bc) ![Moldable Seed Seed](https://mc-heads.net/head/981f7002b063a4b70360efa779eb58b0b3c9c8d59d57bc33f772eaf748e60a79)
 
 ### Harvesting Tool Output
 
@@ -10,17 +10,17 @@ When harvested, this plant will drop: Clay Ball
 
 This plant can be placed on:
 
-Basic Purified Netherrack
-Swampy Crux
-Voracious Dirt
-Stoney Crux
-Desert Crux
-Purified Netherrack
-Snowy Crux
-Beach Crux
-Nether Dirt
-Nether Grass
-Jungle Crux
+- Swampy Crux
+- Basic Purified Netherrack
+- Jungle Crux
+- Nether Grass
+- Nether Dirt
+- Beach Crux
+- Snowy Crux
+- Purified Netherrack
+- Desert Crux
+- Stoney Crux
+- Voracious Dirt
 
 
 ### Growth Rate

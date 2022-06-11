@@ -1,6 +1,6 @@
 # Wild Seed
 
-![Fully grown $Wild Seed Plant](https://mc-heads.net/head/c52e2742a5c89e6367ac58a6980de1734187defff4970488ce6cd0bf7c48d9f8) ![$Wild Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
+![Fully grown Wild Seed Plant](https://mc-heads.net/head/c52e2742a5c89e6367ac58a6980de1734187defff4970488ce6cd0bf7c48d9f8) ![Wild Seed Seed](https://mc-heads.net/head/81170da7341f323f8e4a3d0f8ca379f9af31511f346699f4bf0d09db95f63c6f)
 
 ### Spawns Mob
 
@@ -10,7 +10,7 @@ Ocelot
 
 This plant can be placed on:
 
-Jungle Crux
+- Jungle Crux
 
 
 ### Growth Rate
