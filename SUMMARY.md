@@ -61,6 +61,9 @@
 
 ## Netheopoiesis
 
+* [Overview](netheopoiesis/overview/README.md)
+  * [Purification](netheopoiesis/overview/purification.md)
+  * [Growing and Breeding Plants](netheopoiesis/overview/growing-and-breeding-plants.md)
 * [Purification](netheopoiesis/purification/README.md)
   * [Sleeping in the Nether](netheopoiesis/purification/sleeping-in-the-nether.md)
   * [Water in the Nether](netheopoiesis/purification/water-in-the-nether.md)
