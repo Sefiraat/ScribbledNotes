@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Sefiraat](README.md)
-  * [Buy me a coffee?](sefiraat/buy-me-a-coffee.md)
+  * [Throw me a sponsor, get some stuff!](sefiraat/buy-me-a-coffee.md)
 
 ## Networks
 
