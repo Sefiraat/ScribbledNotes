@@ -44,6 +44,7 @@
   * [Stave Configurator](crystamae-historia/spell-crafting/stave-configurator.md)
 * [Spells](crystamae-historia/spells/README.md)
   * [Abstract Void](crystamae-historia/spells/abstract-void.md)
+  * [Air Nova](crystamae-historia/spells/air-nova.md)
 * [Tools](crystamae-historia/tools/README.md)
   * [Block Veil](crystamae-historia/tools/block-veil.md)
   * [Refracting Lens](crystamae-historia/tools/refraction-lens.md)
