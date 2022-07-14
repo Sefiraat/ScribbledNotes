@@ -1,6 +1,6 @@
 # Animaniacs
 
-{% embed url="https://youtu.be/tFyUVMEJ-mI" %}
+{% embed url="https://www.youtube.com/watch?v=tFyUVMEJ-mI" %}
 
 When cast, this spell will spawn a ball of absurd energy that will fly in the targeted direction. When it hits, all nearby animals will be randomly converted to another animal instantly
 
