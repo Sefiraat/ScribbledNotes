@@ -1,6 +1,6 @@
 # Network Configurator
 
-![Network Configurator](<../../.gitbook/assets/image (1) (1).png>)
+![Network Configurator](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 The Network Configurator can store the state of any Directional Network Node and reapply the exact state to others.
 

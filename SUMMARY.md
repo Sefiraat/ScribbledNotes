@@ -258,3 +258,9 @@
 
 * [What is EMC?](emctech/what-is-emc.md)
 * [EMC Calculations](emctech/emc-calculations.md)
+
+## SefiLib
+
+* [Setup](sefilib/setup/README.md)
+  * [Maven](sefilib/setup/maven.md)
+* [Theme](sefilib/theme.md)
