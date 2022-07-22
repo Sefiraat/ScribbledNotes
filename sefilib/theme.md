@@ -71,9 +71,24 @@ public final class TinkerThemes {
 }
 ```
 
-### Using your Theme
+The Theme class comes with some default themes that can be used for common purposes (and used by Theme for item generation and certain strings).
 
-#### ItemStack
+```java
+// Yellow theme used to denote a warning of some kind
+public static final Theme WARNING = new Theme(ChatColor.YELLOW, "Warning");
+// Red theme used to denote an error, misuse etc.
+public static final Theme ERROR = new Theme(ChatColor.RED, "Error");
+// A plain white theme used for simple notices
+public static final Theme NOTICE = new Theme(ChatColor.WHITE, "Notice");
+// A passive light grey theme used for hints, sub-information and item lore
+public static final Theme PASSIVE = new Theme(ChatColor.GRAY);
+// A lime-green theme used to denote success and/or 'good' responses
+public static final Theme SUCCESS = new Theme(ChatColor.GREEN, "Success");
+// A bright yellow used for highlighting key word or where to click
+public static final Theme CLICK_INFO = new Theme(ChatColor.of("#e4ed32"), "Click here");
+```
+
+### ItemStacks
 
 To create an ItemStack with the Theme applied. Simply use the static method `Theme#themedItemStack()` providing the `Material`, the `Theme` to be applied, the Item's name and a `List<String>` for the lore.
 
@@ -123,5 +138,38 @@ SlimefunItemStack slimefunItemStack = Theme.themedSlimefunItemStack(
 
 ![A SlimefunItemStack created using a Theme](../.gitbook/assets/image.png)
 
-#### Theming Strings
+### Themed Strings
 
+The `Theme` class overrides `.toString()` to provide the theme's base color. This means at the most basic level, you can use your theme field directly within a string concatenation or other message formatter
+
+```java
+String string = Themes.WARNING_THEME + "WARNING"
+
+String string = MESSAGE_FORMAT.format(
+    new Object[]{Themes.WARNING_THEME, "WARNING"}, 
+    new StringBuffer(), 
+    null
+).toString()
+```
+
+You can use the `.apply(Object)` method which will directly return a String that is colored to match the theme. The static method `Theme#applyThemeToString(Theme, String)` does the same as `.apply()` but in a static context.
+
+```java
+Player player = getPlayer();
+
+player.sendMessage(Themes.WARNING_THEME.apply("This is a warning message"));
+
+player.sendMessage(Theme.applyThemeToString(Themes.WARNING_THEME, "This is a warning mesage"));
+```
+
+You can use the `.asTitle(Object, Object)` method which will directly return a String that has the first object (as a string) in the themes color followed immedietly by a colon, a space then the second object as a string using the default Theme.PASSIVE. The static method `Theme#applyThemeAsTitle(Theme, String, Object)` does the same as `.asTitle()` but in a static context.
+
+```java
+Player player = getPlayer();
+int numberOfItems = getNumberOfItems();
+String message = Theme.CLICK_INFO.asTitle("Total Items", numberOfItems);
+
+player.sendMessage(message);
+```
+
+![asTitle() example](<../.gitbook/assets/image (1).png>)
