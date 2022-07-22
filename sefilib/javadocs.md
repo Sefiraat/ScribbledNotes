@@ -2,4 +2,4 @@
 
 The JavaDocs for SefiLib can be found at the link below
 
-{% embed url="https://javadocs.sefiraat.dev/" %}
+{% embed url="http://sefilib.sefiraat.dev/" %}
