@@ -1,21 +1,11 @@
 # Maven
 
-The first thing to do is to add the repository and the dependency for SefiLib to your `pom.xml`
-
-```xml
-<repositories>
-    <repository>
-        <id>sefilib</id>
-        <name>sefi-central</name>
-        <url>https://sefiraat.jfrog.io/artifactory/default-maven-local</url>
-    </repository>
-</repositories>
-```
+The first thing to do is to add the dependency into your pom.xml file. The artifacts are hosted on Maven Central so no additional repositories should be required.
 
 ```xml
 <dependencies>
     <dependency>
-        <groupId>io.github.sefiraat</groupId>
+        <groupId>dev.sefiraat</groupId>
         <artifactId>SefiLib</artifactId>
         <version>[VERSION]</version>
         <scope>compile</scope>
@@ -23,7 +13,9 @@ The first thing to do is to add the repository and the dependency for SefiLib to
 </dependencies>
 ```
 
-Replace `[VERSION]` with the latest version of SefiLib, currently `0.1.3.0`
+Replace `[VERSION]` with the latest version of SefiLib, noted below.
+
+![Maven Central](https://img.shields.io/maven-central/v/dev.sefiraat/SefiLib?color=%23aa\&label=SefiLib%20-%20Maven%20Central\&style=for-the-badge)
 
 The library needs to be shaded into your plugin's jar.
 
@@ -37,7 +29,7 @@ The library needs to be shaded into your plugin's jar.
             <configuration>
                 <relocations>
                     <relocation>
-                        <pattern>io.github.sefiraat.sefilib</pattern>
+                        <pattern>dev.sefiraat.sefilib</pattern>
                         <shadedPattern>[YOUR_PACKAGE].sefilib</shadedPattern>
                     </relocation>
                 </relocations>
