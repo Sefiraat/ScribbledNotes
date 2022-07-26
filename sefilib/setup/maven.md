@@ -15,7 +15,7 @@ The first thing to do is to add the dependency into your pom.xml file. The artif
 
 Replace `[VERSION]` with the latest version of SefiLib, noted below.
 
-![Maven Central](https://img.shields.io/maven-central/v/dev.sefiraat/SefiLib?color=%23aa\&label=SefiLib%20-%20Maven%20Central\&style=for-the-badge)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.sefiraat/SefiLib?color=aa\&style=for-the-badge)](https://search.maven.org/search?q=SefiLib)
 
 The library needs to be shaded into your plugin's jar.
 
