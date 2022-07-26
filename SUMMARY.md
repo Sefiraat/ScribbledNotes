@@ -261,10 +261,10 @@
 
 ## SefiLib
 
-* [JavaDocs](sefilib/javadocs.md)
 * [Setup](sefilib/setup/README.md)
   * [Maven](sefilib/setup/maven.md)
 * [Theme](sefilib/theme.md)
 * [MainFlexGroup](sefilib/mainflexgroup.md)
 * [SimpleTickingBlock](sefilib/simpletickingblock.md)
 * [TimePeriod](sefilib/timeperiod.md)
+* [JavaDocs](sefilib/javadocs.md)
